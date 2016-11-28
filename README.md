@@ -1,2 +1,4 @@
 # Hello-World
-test repositories and project
+
+trying github for the first time. its about time some may say!
+well better late than sorry ! 
